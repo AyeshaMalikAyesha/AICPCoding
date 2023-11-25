@@ -61,8 +61,8 @@ class Square{
 	
 	
 	void display(){
-		cout<<"Area of heaxagon is: "<<calcAreaSquare()<<endl;
-		cout<<"Perimeter of hexagon is: "<<calcPeriSquare()<<endl;
+		cout<<"Area of Square is: "<<calcAreaSquare()<<endl;
+		cout<<"Perimeter of Square is: "<<calcPeriSquare()<<endl;
 	}
 			
 };
